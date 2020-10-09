@@ -1,0 +1,156 @@
+.NavigationBar {
+  align-content: center;
+  background-color: #242526;
+  width: 100%;
+  border: none;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #393a3b;
+  color: #e7e9ed;
+  position: fixed;
+}
+
+.LogoSearch {
+  width: auto;
+  margin-left: -40px;
+  float: left;
+  position: relative;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+.NavigationItems {
+  width: auto;
+  margin: auto;
+  opacity: 0.8;
+}
+
+.AccountSection {
+  margin-right: 35px;
+  width: 300px;
+  float: right;
+  cursor: pointer;
+  display: flex;
+  flex-flow: row wrap;
+  margin-top: 15px;
+}
+
+.search input {
+  text-indent: 30px;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.search .fa-search {
+  color: #e7e9ed;
+  margin-right: 20px;
+  opacity: 0.5;
+  font-size: 15px;
+}
+
+ul {
+  margin: 0 240px;
+  list-style: none;
+  padding: auto;
+  cursor: pointer;
+}
+
+li {
+  display: inline-block;
+  justify-content: center;
+  padding-top: 20px;
+  border-radius: 5px;
+  width: 140px;
+  margin: auto;
+}
+
+.NavigationBar a {
+  color: #e7e9ed;
+}
+
+.NavigationBar a:active {
+  color: #3888ff;
+}
+
+.facebookIcon {
+  margin-right: 0px;
+}
+
+.HeaderInput {
+  width: 240px;
+  height: 40px;
+  background-color: #3a3b3c;
+  border-radius: 25px;
+  padding: 10px;
+  border: none;
+  margin-left: -55px;
+}
+
+.ProfileSection {
+  float: right;
+  width: 100px;
+  border-radius: 50px;
+  padding: 3px;
+}
+
+.ProfileSection:hover {
+  background-color: #3a3b3c;
+  border-radius: 50px;
+  height: 36px;
+  display: inline-block;
+}
+
+.ProfileImage {
+  border-radius: 50%;
+  float: left;
+  margin-right: 10px;
+}
+
+.ProfileSection h4 {
+  padding-top: 3px;
+}
+
+.navbar__link {
+  color: #3888ff;
+  cursor: pointer;
+  text-decoration: none;
+  border-bottom: 3px solid transparent;
+}
+
+.navbar__link--active {
+  padding-bottom: 20px;
+  border-bottom: 3px solid#3888FF;
+  transition: border-bottom 0.5s ease-in-out;
+}
+.navbar2__link--active {
+  padding-bottom: 20px;
+  transition: border-bottom 0.5s ease-in-out;
+}
+
+a.navbar__link--active {
+  color: #3888ff !important;
+}
+
+a.navbar2__link--active {
+  color: #3888ff !important;
+}
+
+.RoundButton {
+  display: block;
+  margin: -3px 5px 0 5px;
+  padding: 9px;
+  background-color: #4e4f50;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+li:hover {
+  background-color: #313131;
+  margin: auto;
+  border-radius: 15px;
+  padding: 20px;
+}

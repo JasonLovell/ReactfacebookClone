@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+  text-align: center;
+  background-color: #18191a;
+  color:#e4e6eb;
+  font-weight: 500;
+  font-size: 1.2em;
+  
+}
+
+.CopyRight2020 {
+  
+  margin-top: 64vh;
+  margin-left:1vh;
+  height: auto;
+  position: sticky;
+  width: 50%;
+  bottom: 10px;
+}
+
+.CopyRightText {
+  font-weight: 100;
+  font-size: 12px !important;
+  text-align: left;
+  position: fixed;
+}

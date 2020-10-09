@@ -1,0 +1,23 @@
+.wrapper {
+  width: 100vh;
+  display: flex;
+  color: #e4e6eb;
+  
+}
+
+.section div {
+  width: 100%;
+}
+
+.left_block {
+  float: left;
+}
+
+.middle_block {
+  margin: auto;
+  z-index: -1;
+}
+
+.right_block {
+  float: right;
+}

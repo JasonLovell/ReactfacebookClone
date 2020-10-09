@@ -1,0 +1,142 @@
+.SponsorRightSection {
+  width: 350px;
+  font-size: 16px;
+  line-height: 1px;
+  margin-top: 50px;
+  margin-left: -335px;
+  float: left;
+  position: fixed;
+}
+
+.SponsorRightTop {
+  height: 100px;
+  text-align: center;
+}
+
+.SponsorRightTop img {
+  border-radius: 10px;
+  margin-right: 15px;
+}
+.SponsorRightTop h4 {
+  text-align: left;
+  padding-top: 25px;
+}
+
+.SponsorRight {
+  width: 330px;
+  height: 50px;
+  text-align: left;
+  margin: 1px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.SponsorRight:hover {
+  background-color: #303031;
+  height: 50px;
+  width: 330px;
+  text-align: left;
+}
+
+.SponsorRight img {
+  margin-top: -5px;
+  margin-right: 10px;
+}
+
+.ShortcutRightSection {
+  font-size: 16px;
+  line-height: 1px;
+  margin-top: 10px;
+  margin-left: -35px;
+}
+
+.AdvertTop {
+  height: 200px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.ShortcutText {
+  text-align: left;
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.ShortTextRight {
+  margin-top: 20px;
+  margin-left: 20px;
+  height: 50px;
+  width: 350px;
+  text-align: left;
+  padding-top: 13px;
+  padding-left: 5px;
+}
+
+.ShortText span {
+  float: right;
+  font-weight: 100;
+  color: #3888ff;
+  visibility: hidden;
+}
+
+.ShortText {
+  font-weight: 600;
+  font-size: 17px;
+  color: #b0b3b8;
+}
+
+.SponsorImage2 {
+  border-radius: 50%;
+  float: left;
+  margin-right: 10px;
+}
+
+span {
+  padding: 5px;
+  margin: -10px 20px;
+  text-align: left;
+  margin-top: 2px;
+  font-size: 1.6em;
+  width: 300px;
+}
+
+.ShortcutRightSection h4 {
+  width: 300px;
+  margin-left: 50px;
+  text-align: left;
+}
+
+h4 {
+  text-align: left;
+}
+
+.birthdayBack {
+  height: 90px;
+  width: 300px;
+  margin-top: 9px;
+}
+
+.BirthdayRight {
+  border-radius: 10px;
+  padding: 10px;
+}
+.BirthdayRight:hover {
+  background-color: #242526;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+h5 {
+  margin-top: 9px;
+  text-align: left;
+  padding: 5px;
+  margin-top: 5px;
+  margin-left:10px;
+  font-size: 1.6em;
+  width: 300px;
+}
+
+.BirthdayRight {
+  display: flex;
+  vertical-align: middle;
+}

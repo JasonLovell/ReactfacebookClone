@@ -1,0 +1,44 @@
+.CardBody2 {
+  width: 680px;
+  height: 60%;
+  padding: 10px 20px 100px 20px;
+  margin-bottom: 10px;
+  background-color: #242526;
+  border-radius: 10px;
+  /* background-color: #3a3b3c; */
+}
+
+.VideoWindow {
+  width: 640px;
+}
+
+.CardBody2 img {
+  border-color: black;
+}
+
+.CardName {
+  text-indent: 90px;
+  text-align: left;
+  margin-top: -40px;
+}
+
+.CardDate {
+  text-indent: 90px;
+  text-align: left;
+}
+
+.card-img-top {
+  border: none;
+}
+
+.CardPosted {
+  margin-top: 20px;
+  text-indent: 0px;
+  text-align: left;
+  font-size: 20px;
+}
+
+.CommentCount {
+  margin-top: -30px;
+  text-align: right;
+}
