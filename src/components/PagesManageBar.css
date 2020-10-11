@@ -1,0 +1,26 @@
+.ManageWrapper {
+    background-color: #242526;
+    width: 900px;
+    height: 100px;
+    border-radius:10px;
+    padding: 20px;
+    float: left;
+    margin: 5px;
+}
+
+.ManageWrapper h1{
+    margin: auto 100px;
+}
+
+.NotifMess {
+    float: right;
+    margin: -60px 0px;
+    display: flex;
+    gap: 20px;
+}
+
+.NotifMess p {
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: 100;
+}

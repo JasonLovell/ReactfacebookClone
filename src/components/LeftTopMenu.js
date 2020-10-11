@@ -62,7 +62,7 @@ function LeftTopMenu() {
           alt='profile'
           width='35'
         />
-        <h4>More</h4>
+        <h4>See more</h4>
       </p>
       <hr width='250px' />
     
@@ -135,7 +135,7 @@ function LeftTopMenu() {
         alt='profile'
         width='40'
       />
-      <h4>More</h4>
+      <h4>See more</h4>
     </p>
     </div>
   </React.Fragment>

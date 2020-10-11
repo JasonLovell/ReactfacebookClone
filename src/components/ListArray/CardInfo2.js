@@ -94,6 +94,20 @@ const CardInfo2 = [
     LikedPost: "👍😀❤️ 1.2k",
     CommentCount: '98 comments  2 Shares'
   },
+  {
+    id: 8,
+    name: 'Libby Hatherton',
+    time: '15mins',
+    profile: 'Friends',
+    image: '',
+    story: 'Law, English, Maths',
+    image2: 'https://4.img-dpreview.com/files/p/E~C131x0S788x788T1200x1200~articles/2988339509/BlogHeader_150-1-1800x0-c-default_copy.jpeg',
+    image3: 'https://www.youtube.com/embed/rINDrfWq9k4?autoplay=1&mute=1',
+    posted: 'ADOBE PRODUCTS Learn new skills and be inspired in 350+ sessions.',
+    height: '400px',
+    LikedPost: "👍😀 28",
+    CommentCount: '3 comments'
+  }
 ];
 
 export default CardInfo2;

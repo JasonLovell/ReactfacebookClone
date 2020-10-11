@@ -1,5 +1,5 @@
 .CardBody {
-  
+  object-fit: cover;
   background-color: #000000;
   border: none;
   border-radius: 10px 10px;
@@ -9,7 +9,7 @@
   box-shadow: 2px 2px 5px #333;
   color: #000;
   font-size: 1.5em;
-  padding: 2px !important;
+  padding: 0px !important;
 }
 
 Button {
@@ -47,6 +47,7 @@ Button {
   height: 100%;
   width: 100%;
   border-radius: 10px 10px;
+  
 }
 
 .CardTitle {
@@ -58,5 +59,6 @@ Button {
 }
 
 .CardBody:hover {
-  padding: 1px !important;
+  transform: scale(1.02);
+  transition: 1s;
 }

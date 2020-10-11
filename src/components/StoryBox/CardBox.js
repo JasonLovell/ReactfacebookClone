@@ -10,7 +10,6 @@ const CardBox = () => {
         <Card className='CardBody' key={index}>
           <Card.Img
             variant='top'
-            src='holder.js/100px180'
             src={card.image}
             alt='No Image'
           />
@@ -18,7 +17,6 @@ const CardBox = () => {
             <Card.Title className="CardTitle">{card.name}</Card.Title>
             <Button variant='primary'><Card.Img
             variant='top'
-            src='holder.js/200px'
             src={card.image2}
             alt='No Image'
           /></Button>

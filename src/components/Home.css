@@ -1,8 +1,5 @@
 .wrapper {
-  width: 100vh;
   display: flex;
-  color: #e4e6eb;
-  
 }
 
 .section div {
@@ -15,7 +12,7 @@
 
 .middle_block {
   margin: auto;
-  z-index: -1;
+  z-index: 0;
 }
 
 .right_block {

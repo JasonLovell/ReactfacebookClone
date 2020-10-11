@@ -1,7 +1,7 @@
 import React from 'react';
 import './LikeCommentShare.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faArrowDown, faCoffee, faCommentAlt, faShare, faSortDown, faThumbsUp } from '@fortawesome/free-solid-svg-icons'
+import { faCommentAlt, faShare, faSortDown, faThumbsUp } from '@fortawesome/free-solid-svg-icons'
 
 function LikeCommentShare() {
     return (
